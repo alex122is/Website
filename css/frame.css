@@ -765,40 +765,6 @@ ol.nested>li:before {
   .menu-items a:first-child {
     margin-top: 10px;
   }
-  .box {
-  	position: abosolute;
-	top 50%;
-	left 50%;
-	transform: translate(50%,-50%);
-	padding: 20px;
-	box-sizing: border-box;
-	border-radius: 4px;
-	width: 800px
-	display: flex;
-	
-  }
-  
-  .box .imgBox{
-   	width: 150px;
-	flex: 0 0 150px;
-}
-  .box .imgBox img{
-	float:left;
-} 
-  .box .contents {
-	padding-left: 20px
-}
-
- .box .contents h2{
-	float:right;
-}
-
-
-
-	
-
-
-
 
   .menu-items a {
     width: 100%;
